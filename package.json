@@ -11,5 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/lodash": "^4.14.181",
+    "date-fns": "^2.28.0",
+    "lodash": "^4.17.21"
   }
 }
